@@ -1,0 +1,638 @@
+
+
+@media (min-width: 1200px) {}
+
+
+@media (min-width: 1400px) {}
+
+
+@media (max-width: 992px) {
+    .showcase {
+        min-height: 50vh;
+      }
+    button#toggle {
+        left: 70px;
+      }
+    nav.navmenu .navigation {
+        padding-top: 150px;
+        padding-left: 125px;
+      }
+      .logo {
+        max-width: 250px;
+        margin-bottom: 70px;
+      }
+      .gry_order1{
+        order:2 ;
+        width: 100% !important;
+      }
+      .gry_order1{
+        order:1 ;
+        width: 100% !important;
+      }
+      .home-intro .home-intro-img .intro-img2 img {
+        position: relative;
+       z-index: 30;
+      }
+      .home-intro .home-intro-img {
+        position: relative;
+        margin: 0 !important;
+      }
+      .home-intro .home-intro-img img {
+        width: 100%;
+        height: auto;
+      }
+      .home-intro .home-intro-info h2 {
+        margin-top: 20px;
+      }
+      .home-intro-info a{
+        color: #000000 !important;
+      }
+      .home-intro-info a:hover{
+        color: #fff !important;
+      }
+      .container.expertise-blog .col-md-4 {
+        width: 50%;
+      }
+      .expertise h2 {
+        padding-bottom: 10px !important;
+      }
+      .serveSlider {
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+      
+      }
+      .serveSlider .serv-slide img {
+        width: 100%;
+        height: auto;
+      }
+      .blog-area .col-md-3{
+        width: 33% !important;
+      }
+      .home-intro .col-md-6 {
+        width: 100%;
+        text-align: center;
+      }
+      .about-socity .col-md-7{
+        width: 100%;
+      }
+      .strate {
+        width: 50%;
+      }
+      .brand-slide{
+        width: 33%;
+      }
+      .home-intro .home-intro-info p {
+        padding-right: 0 !important;
+      }
+      .intro-video{
+        width: 100% !important;
+      }
+      .intro-video #my-video{
+        margin-top: 50px !important;
+      }
+      .sm-order1{
+        order: 1 !important;
+      }
+      .sm-order2{
+        order: 2 !important;
+      }
+      .principles-quote {
+        padding: 0 !important;
+      }
+      .brand-row .col-md-6{
+        width: 100% !important;
+        align-items: center !important;
+      }
+      .bands-post{
+        padding: 0 !important;
+      }
+      .sm-mb-30{
+        padding-bottom: 50px !important;
+      }
+      .band-post.pl-50 {
+        padding-left: 0 !important;
+      }
+      .band-thumb {
+        position: relative;
+        width: 100% !important;
+      }
+      .brand-sec .col-md-8{
+        width: 100% !important;
+        padding: 0 !important;
+      }
+      .bands-heading {
+        padding-bottom: 50px !important;
+      }
+      .principles-single-slider .col-md-7 {
+        flex: 0 0 auto;
+        width: 100% !important;
+        padding-bottom: 0 !important;
+      }
+      .principles-single-slider .col-md-5 {
+        flex: 0 0 auto;
+        width: 100% !important;
+      }
+      .brand-sec .col-md-6{
+        width: 100% !important;
+        padding: 20px !important;
+      }
+      .band-post h3 {
+        text-align: center;
+      }
+      .band-thumb .band-post-link {
+        right: 165px;
+      }
+      .contact-form {
+        width: 100%; 
+        padding: 90px; 
+        margin: 0;
+        margin-bottom: 30px;  
+        position: relative; 
+      }
+      .contact-sec.mt-200.mb-200{
+        margin-top: 60px !important;
+        margin-bottom: 80px !important;
+      }
+      .col-tb-12 {
+        width: 80% !important;
+      }
+      .showcase-text .text-end{
+        text-align: center !important;
+      }
+      .showcase-text{
+        text-align: center !important;
+      }
+}
+@media (max-width: 768px) {
+    .showcase {
+        min-height: 50vh;
+      }
+    button#toggle {
+        left: 70px;
+      }
+    nav.navmenu .navigation {
+        padding-top: 150px;
+        padding-left: 125px;
+      }
+      .logo {
+        max-width: 250px;
+        margin-bottom: 70px;
+      }
+      .gry_order1{
+        order:2 ;
+        width: 100% !important;
+      }
+      .gry_order1{
+        order:1 ;
+        width: 100% !important;
+      }
+      .home-intro .home-intro-img .intro-img2 img {
+        position: relative;
+       z-index: 30;
+      }
+      .home-intro .home-intro-img {
+        position: relative;
+        margin: 0 !important;
+      }
+      .home-intro .home-intro-img img {
+        width: 100%;
+        height: auto;
+      }
+      .home-intro .home-intro-info h2 {
+        margin-top: 20px;
+      }
+      .home-intro-info a{
+        color: #000000 !important;
+      }
+      .home-intro-info a:hover{
+        color: #fff !important;
+      }
+      .container.expertise-blog .col-md-4 {
+        width: 50%;
+      }
+      .expertise h2 {
+        padding-bottom: 10px !important;
+      }
+      .serveSlider {
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+      
+      }
+      .serveSlider .serv-slide img {
+        width: 100%;
+        height: auto;
+      }
+      .blog-area .col-md-3{
+        width: 33% !important;
+      }
+      .home-intro .col-md-6 {
+        width: 100%;
+        text-align: center;
+      }
+      .about-socity .col-md-7{
+        width: 100%;
+      }
+      .strate {
+        width: 50%;
+      }
+      .brand-slide{
+        width: 33%;
+      }
+      .home-intro .home-intro-info p {
+        padding-right: 0 !important;
+      }
+      .intro-video{
+        width: 100% !important;
+      }
+      .intro-video #my-video{
+        margin-top: 50px !important;
+      }
+      .sm-order1{
+        order: 1 !important;
+      }
+      .sm-order2{
+        order: 2 !important;
+      }
+      .principles-quote {
+        padding: 0 !important;
+      }
+      .brand-row .col-md-6{
+        width: 100% !important;
+        align-items: center !important;
+      }
+      .bands-post{
+        padding: 0 !important;
+      }
+      .sm-mb-30{
+        padding-bottom: 50px !important;
+      }
+      .band-post.pl-50 {
+        padding-left: 0 !important;
+      }
+      .band-thumb {
+        position: relative;
+        width: 100% !important;
+      }
+      .brand-sec .col-md-8{
+        width: 100% !important;
+        padding: 0 !important;
+      }
+      .bands-heading {
+        padding-bottom: 50px !important;
+      }
+      .principles-single-slider .col-md-7 {
+        flex: 0 0 auto;
+        width: 100% !important;
+        padding-bottom: 0 !important;
+      }
+      .principles-single-slider .col-md-5 {
+        flex: 0 0 auto;
+        width: 100% !important;
+      }
+      .brand-sec .col-md-6{
+        width: 100% !important;
+        padding: 20px !important;
+      }
+      .band-post h3 {
+        text-align: center;
+      }
+      .band-thumb .band-post-link {
+        right: 165px;
+      }
+      .contact-form {
+        width: 100%; 
+        padding: 90px; 
+        margin: 0;
+        margin-bottom: 30px;  
+        position: relative; 
+      }
+      .contact-sec.mt-200.mb-200{
+        margin-top: 60px !important;
+        margin-bottom: 80px !important;
+      }
+      .col-tb-12 {
+        width: 80% !important;
+      }
+      .showcase-text .text-end{
+        text-align: center !important;
+      }
+      .showcase-text{
+        text-align: center !important;
+      }
+
+      .socity-member{
+        width: 100%;
+        height: 770px !important;
+        position: absolute;
+        top: 0;
+        left: 0;
+        visibility: hidden;
+        overflow: hidden;
+        z-index: 99;
+        text-align: center;
+      }
+      .memberinfo{
+        justify-content: center;
+        order: 1 !important;
+      }
+      .member-intro {
+        color: #fff;
+        padding-bottom: 0;
+        padding-top: 50px;
+        font-size: 18px;
+        order: 2 !important;
+      }
+}
+@media (max-width: 576px) {
+
+    button#toggle {
+        left: 25px;
+        top: 70px;
+      }
+    .logo {
+    max-width: 200px;
+    margin-bottom: 30px;
+    }
+    .showcase-text {
+        text-align: center;
+    }
+    .showcase-text h3 {
+        font-size: 1.4em;
+    }
+    .showcase-text h1 {
+        line-height: 60px;
+      }  
+    .showcase {
+        min-height: 70vh;
+        padding: 0px;
+        justify-content: center;
+    }
+    nav.navmenu {
+        width: 100%;
+    }
+    nav.navmenu .navigation {
+        padding-top: 120px;
+        padding-left: 120px;
+      }
+
+      .home-intro .home-intro-img {
+        margin: 0 !important;
+      }
+    .section-home-intro .gry_order1 {
+        order: 2;
+    }
+
+    .section-home-intro .gry_order2 {
+        order: 1;
+    }
+
+    .home-intro .home-intro-img .size-full{
+        width: 250px !important;
+        height: auto;
+
+    }
+    .home-intro .home-intro-img .intro-img2 img {
+        position: relative;
+       z-index: 30;
+      }
+    .home-intro .home-intro-info{
+        text-align: center;
+    }
+    .home-intro .home-intro-info #intro-btn:hover{
+        color: #fff;
+        background: #000;
+    }
+
+    .home-intro .home-intro-info .btn-primary {
+        text-align: center;
+        color: #000000 !important;
+    }
+    .expertise{
+        text-align: center;
+    }
+    .expertise-blog {
+        padding: 0;
+    }
+
+    .expertise-thumb {
+        max-width: 100%;
+    }
+    .expertise-thumb .icon {
+        right: 45px;
+    }
+    .section-serve h2 {
+    text-align: center;
+    }
+    .section-serve p {
+    text-align: center;
+    }
+    .serveSlider {
+        margin-left: 55px;
+    }
+    .serve-btn-prosition{
+        justify-content: center !important;
+    }
+    .sm-display{
+        display: none;
+    }
+    .sm-display-sw{
+        width: fit-content;
+        padding-left: 0 !important;
+
+    }
+    .testimonial-intro h2{
+        font-family: 'gilroy';
+        font-weight: 500;
+        font-style: normal;
+        font-size: 40px;
+    }
+    .testimonial-intro p{
+        font-family: 'sf_pro_display';
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+    }
+   #blog-title{
+        font-family: 'gilroy';
+        font-weight: 500;
+        font-style: normal;
+        font-size: 40px;
+   }
+   .quote-intro {
+    text-align: center;
+  }
+   .blog-col{
+    margin-left: 30px;
+    margin-right: 30px;
+   }
+   .sm-display-foo{
+    text-align: center !important;
+   }
+   .footer-logo img {
+    max-width: 150px;
+    max-height: 150px;
+  }
+   .menu-footer-menu-container{
+    display: flex;
+    justify-content: center;
+   }
+   .menu-footer-menu-2nd-container{
+    display: flex;
+    justify-content: center;
+   }
+   .footer-menu .menu-footer-menu-2nd-container ul{
+    margin: 0;
+   }
+   .footer-menu .menu-footer-menu-container ul{
+    margin: 0;
+   }
+   .footer-section{
+    padding-top: 55px !important;
+   }
+
+   .section-home-intro {
+    text-align: center;
+    
+  }
+  #about-intro-desc{
+    padding-right: 0 !important;
+  }
+  #about-team-title {
+    text-align: center;
+  }
+  .intro-video{
+    width: 100% !important;
+    margin-top: 50px;
+  }
+  .strate{
+    text-align: center !important;
+  }
+  #brand-heading {
+    text-align: center;
+  }
+  .band-post.pl-50 {
+    text-align: center !important;
+    padding-left: 0 !important;
+  }
+  .bands-post{
+   padding: 20px;
+  }
+  .band-thumb {
+    width: 100%;
+  }
+  .sm-mb-30{
+    margin-bottom: 30px!important;
+  }
+  .prin-single-slide {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .prin-single-slide .prici-quote p{
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .sm-order2{
+    order: 2 !important;
+  }
+  .sm-order1{
+    order: 1 !important;
+  }
+  .gry-team{
+    padding-top: 0 !important;
+  }
+  .home-intro .home-intro-info h2 {
+    padding-top: 30px;
+  }
+  .sm-p{
+    padding: 0 !important;
+  }
+  .bands-heading {
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+  }
+  .band-post h3 {
+    padding: 10px;
+    text-align: center;
+  }
+  .positionfor h4 {
+    font-size: 12px;
+  }
+  .positionfor .btn-custom {
+    font-size: 10px;
+  }
+  .brand-sec .p-50 {
+    padding: 10px !important;
+    margin-bottom: 50px !important;
+  }
+  .band-post h3 {
+    padding-bottom: 10px !important;
+  }
+  .contact-form {
+    width: 100%; 
+    padding: 20px; 
+    margin: 0;
+    margin-bottom: 30px;  
+    position: relative; 
+  }
+  .contact-sec.mt-200.mb-200{
+    margin-top: 60px !important;
+    margin-bottom: 80px !important;
+  }
+  .hero-container {
+    width: 100%;
+    margin: auto;
+  }
+  .showcase-text .text-end{
+    text-align: center !important;
+  }
+  .blog-area .col-md-3{
+    width: 100% !important;
+  }
+  .serveSlider {
+    margin-left:0 !important;
+}
+.container.expertise-blog .col-md-4 {
+    width: 100%;
+  }
+.strate {
+width: 100%;
+}
+.band-post p{
+    padding: 20px !important;
+}
+.band-thumb .band-post-link {
+    right: 10px;
+  }
+.col-tb-12 {
+    width: 100% !important;
+}
+.positionfor p {
+    padding: 0px !important;
+  }
+
+.socity-member{
+  width: 100%;
+  height: 770px !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  visibility: hidden;
+  overflow: hidden;
+  z-index: 99;
+  text-align: center;
+}
+.memberinfo{
+  justify-content: center;
+  order: 1 !important;
+}
+.member-intro {
+  color: #fff;
+  padding-bottom: 0;
+  padding-top: 50px;
+  font-size: 18px;
+  order: 2 !important;
+}
+}
